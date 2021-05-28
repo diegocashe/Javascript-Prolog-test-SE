@@ -1,0 +1,1 @@
+this is an simple test of prolog and javacript integration.
